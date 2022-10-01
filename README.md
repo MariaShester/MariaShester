@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariaShester
-- 👀 I’m interested in... surprise! IT 
+- 👀 Former ballet dancer, beginner... IT worker...
 - 🌱 I’m currently learning frontend doings
 - 📫 How to reach me: shesterikovamasha@gmail.com
 
